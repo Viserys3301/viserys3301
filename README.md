@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viserys3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viserys3301" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/viserys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="viserys3301" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22428578/viserys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="viserys3301" height="30" width="40" /></a>
 <a href="https://instagram.com/viserys3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viserys3301" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/viserys3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viserys3301" height="30" width="40" /></a>
 <a href="https://discord.gg/viserys3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="viserys3301" height="30" width="40" /></a>
